@@ -19,36 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
-    \entry{key1}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=b0cfd031806b3d1fc44ac306e482663d}{%
-           family={Schwab},
-           familyi={S\bibinitperiod},
-           given={Rainer},
-           giveni={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{b0cfd031806b3d1fc44ac306e482663d}
-      \strng{fullhash}{b0cfd031806b3d1fc44ac306e482663d}
-      \strng{fullhashraw}{b0cfd031806b3d1fc44ac306e482663d}
-      \strng{bibnamehash}{b0cfd031806b3d1fc44ac306e482663d}
-      \strng{authorbibnamehash}{b0cfd031806b3d1fc44ac306e482663d}
-      \strng{authornamehash}{b0cfd031806b3d1fc44ac306e482663d}
-      \strng{authorfullhash}{b0cfd031806b3d1fc44ac306e482663d}
-      \strng{authorfullhashraw}{b0cfd031806b3d1fc44ac306e482663d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Zugriff am 10 April 2025}
-      \field{title}{Das Rasterelektronenmikroskop}
-      \field{year}{2012}
-      \verb{urlraw}
-      \verb https://www.youtube.com/watch?v=uXjXx63Nb6k
-      \endverb
-      \verb{url}
-      \verb https://www.youtube.com/watch?v=uXjXx63Nb6k
-      \endverb
-    \endentry
     \entry{key}{misc}{}{}
       \name{author}{1}{}{%
         {{hash=d9d35ec6397ae2fed785c66e459543fb}{%
@@ -65,37 +35,12 @@
       \strng{authornamehash}{d9d35ec6397ae2fed785c66e459543fb}
       \strng{authorfullhash}{d9d35ec6397ae2fed785c66e459543fb}
       \strng{authorfullhashraw}{d9d35ec6397ae2fed785c66e459543fb}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Zugriff am 11 April 2025}
       \field{title}{Laborversuch 2: Rasterelektronenmikroskop (REM)}
-    \endentry
-    \entry{2}{online}{}{}
-      \name{author}{1}{}{%
-        {{hash=2b22c6510f4011b7bc269b3ad0b76441}{%
-           family={thermofisher},
-           familyi={t\bibinitperiod}}}%
-      }
-      \strng{namehash}{2b22c6510f4011b7bc269b3ad0b76441}
-      \strng{fullhash}{2b22c6510f4011b7bc269b3ad0b76441}
-      \strng{fullhashraw}{2b22c6510f4011b7bc269b3ad0b76441}
-      \strng{bibnamehash}{2b22c6510f4011b7bc269b3ad0b76441}
-      \strng{authorbibnamehash}{2b22c6510f4011b7bc269b3ad0b76441}
-      \strng{authornamehash}{2b22c6510f4011b7bc269b3ad0b76441}
-      \strng{authorfullhash}{2b22c6510f4011b7bc269b3ad0b76441}
-      \strng{authorfullhashraw}{2b22c6510f4011b7bc269b3ad0b76441}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{note}{Zugriff am 10 April 2025}
-      \verb{urlraw}
-      \verb https://assets.thermofisher.com/TFS-Assets/MSD/Datasheets/phenom-xl-g2-argon-compatible-desktop-sem-datasheet.pdf
-      \endverb
-      \verb{url}
-      \verb https://assets.thermofisher.com/TFS-Assets/MSD/Datasheets/phenom-xl-g2-argon-compatible-desktop-sem-datasheet.pdf
-      \endverb
     \endentry
   \enddatalist
 \endrefsection

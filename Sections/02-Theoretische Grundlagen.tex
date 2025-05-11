@@ -1,27 +1,25 @@
-Das Elektronenmikroskop ist eine spezielle Art von Mikroskop, das Elektronen anstelle von Licht verwendet, um eine stark vergrößerte und hochauflösende Abbildung der Probe zu erzeugen. 
-Im Vergleich zum Lichtmikroskop bietet es eine wesentlich höhere Vergrößerung sowie eine deutlich präzisere Bilddarstellung.
+Die Scanning Acoustic Microscope (SAM), auch bekannt als akustisches Mikroskop, wurde 1974 an der Stanford University entwickelt und stellte das erste Instrument dar, das in der Lage war, ein akustisches Bild zu erzeugen.\\
 
-Einige Elektronenmikroskope ermöglichen eine Vergrößerung von bis zu zwei Millionen Mal der tatsächlichen Größe des Objekts, während selbst die leistungsfähigsten Lichtmikroskope auf etwa 2000-fache Vergrößerung begrenzt sind. Sowohl im Licht- als auch im Elektronenmikroskop gibt es jedoch durch die jeweilige Wellenlänge physikalisch bedingte Grenzen hinsichtlich der Auflösung und Bildschärfe.
+Das Grundprinzip der SAM basiert auf einem Wandler (Transducer), der Ultraschallwellen erzeugt. Diese werden mithilfe einer akustischen Linse fokussiert und auf die zu untersuchende Probe gerichtet. Beim Auftreffen auf das Material werden die Wellen absorbiert, reflektiert oder gestreut, abhängig von den Eigenschaften der inneren Strukturen. Die reflektierten Wellen werden von Detektoren – meist oberhalb oder unterhalb der Probe – erfasst und in elektrische Signale umgewandelt.
 
-Die überlegene Auflösung und Vergrößerungsfähigkeit des Elektronenmikroskops ist auf die deutlich kürzere Wellenlänge der Elektronen zurückzuführen – gemäß der de-Broglie-Gleichung – im Vergleich zur Wellenlänge elektromagnetischer Strahlung (Licht). Daraus ergibt sich ein inverser Zusammenhang zwischen Wellenlänge und Auflösung bzw. 
-Vergrößerung: Je kürzer die Wellenlänge, desto höher die mögliche Auflösung.
+Diese elektrischen Signale liefern Informationen über materialinterne Eigenschaften wie Schichtdicke, Dichte und Grenzflächenbeschaffenheit. Die verwendeten Frequenzen der Ultraschallwellen sind dabei entscheidend, da sie die Auflösung und Eindringtiefe bestimmen. Je nach Frequenz können innere Strukturen wie Risse, Delaminationen, Lufteinschlüsse oder Hohlräume detektiert werden.
+
+Eine Vielzahl von Materialien, die in der industriellen Fertigung verwendet werden – etwa Silizium, Epoxidharz, Bonding-Materialien und Metallrahmen – übertragen Ultraschallwellen ausreichend gut, um eine bildgebende Analyse zu ermöglichen.\\
+
+Das am häufigsten genutzte Verfahren der SAM ist der Reflexionsmodus (Pulse-Echo-Verfahren). Dabei wird eine Ultraschallwelle in die Probe eingekoppelt. Ein Teil der Welle wird an inneren Grenzflächen reflektiert und gelangt zurück zum Wandler, wo sie erneut in ein elektrisches Signal umgewandelt wird. Die Intensität und Polarität dieser Signale liefern Rückschlüsse auf die inneren Strukturen des untersuchten Materials.
+\\
+
+
 
  \newpage
 \vspace{0.2cm}
 \begin{figure}
     \centering
-    \includegraphics[scale=0.3]{Bilder/Screenshot 2025-04-10 165235}
-    \caption{Erklärung zur Elektronenstrahlerzeugung im REM}
-    \par Quelle: \href{https://www.youtube.com/watch?v=uXjXx63Nb6k&t=286s}{Youtube: Das Rasterelektronenmikroskop}
+    \includegraphics[scale=0.8]{Bilder/samtheorie}
+    \caption{Schematische Darstellung des Funktionsprinzips der Scanning Acoustic Microscopy (SAM) im Reflexionsmodus. Die eingestrahlten Ultraschallwellen werden an inneren Strukturen wie Rissen, Grenzflächen, Einschlüsse oder Delaminationen reflektiert und ermöglichen so eine zerstörungsfreie Analyse der Probe.}
+    \par Quelle: \href{https://www.pvatepla-lwt.com/technologien/funktionsweise-der-ultraschallmikroskopie/}{PVA Tepla: SAM funktionsweise}
     \vspace{0.2cm}
-    \label{Abb.1: Erklärung zur Elektronenstrahlerzeugung im REM }
+    \label{Abb.1: Schematische Darstellung des Funktionsprinzips der Scanning Acoustic Microscopy (SAM) im Reflexionsmodus. Die eingestrahlten Ultraschallwellen werden an inneren Strukturen wie Rissen, Grenzflächen, Einschlüsse oder Delaminationen reflektiert und ermöglichen so eine zerstörungsfreie Analyse der Probe. }
 \end{figure} 
 \vspace{0.2cm}
-Die Kathode wird stark erhitzt, auf etwa 1800K. Zusätzlich wird eine Hochspannung von etwa 5 bis 15kV zwischen Kathode und Anode angelegt. 
-Dadurch erhalten die Elektronen genügend Energie, um beschleunigt zu werden. So entsteht ein Elektronenstrahl, der jedoch erst durch elektromagnetische Linsen gebündelt und fokussiert werden kann.
-\\ \\
-Mithilfe elektromagnetischer Ablenkung kann der gebündelte Strahl über die Probe geführt werden, sodass unterschiedliche Positionen gezielt angesteuert werden können. 
-Zur Detektion der Elektronen wird ein positiv geladener Sekundärelektronendetektor verwendet, der die negativ geladenen Elektronen anzieht. Diese werden anschließend mithilfe einer Computersoftware visuell dargestellt.
-\\
-Beim Betrieb des Rasterelektronenmikroskops entsteht außerdem Röntgenstrahlung.\cite{key1} 
-Diese kann mit einem Röntgendetektor erfasst werden, um die chemische Zusammensetzung des untersuchten Materials zu bestimmen.
+Zur optimalen Übertragung der akustischen Wellen befindet sich die Probe während der Messung in einem Wasserbad. Wasser dient dabei als Kopplungsmedium, da es eine homogene akustische Impedanz aufweist und eine gleichmäßige Grenzfläche zwischen Sonde und Probe bildet.
