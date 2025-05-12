@@ -19,28 +19,57 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
-    \entry{key}{misc}{}{}
+    \entry{1}{online}{}{}
       \name{author}{1}{}{%
-        {{hash=d9d35ec6397ae2fed785c66e459543fb}{%
-           family={Bockholt},
-           familyi={B\bibinitperiod},
-           given={M.Eng.\bibnamedelimi Yannick},
-           giveni={M\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=85997f6cfd24ec8e73b2f48807ac9dec}{%
+           family={AG},
+           familyi={A\bibinitperiod},
+           given={PVA\bibnamedelima Tepla},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
       }
-      \strng{namehash}{d9d35ec6397ae2fed785c66e459543fb}
-      \strng{fullhash}{d9d35ec6397ae2fed785c66e459543fb}
-      \strng{fullhashraw}{d9d35ec6397ae2fed785c66e459543fb}
-      \strng{bibnamehash}{d9d35ec6397ae2fed785c66e459543fb}
-      \strng{authorbibnamehash}{d9d35ec6397ae2fed785c66e459543fb}
-      \strng{authornamehash}{d9d35ec6397ae2fed785c66e459543fb}
-      \strng{authorfullhash}{d9d35ec6397ae2fed785c66e459543fb}
-      \strng{authorfullhashraw}{d9d35ec6397ae2fed785c66e459543fb}
+      \strng{namehash}{85997f6cfd24ec8e73b2f48807ac9dec}
+      \strng{fullhash}{85997f6cfd24ec8e73b2f48807ac9dec}
+      \strng{fullhashraw}{85997f6cfd24ec8e73b2f48807ac9dec}
+      \strng{bibnamehash}{85997f6cfd24ec8e73b2f48807ac9dec}
+      \strng{authorbibnamehash}{85997f6cfd24ec8e73b2f48807ac9dec}
+      \strng{authornamehash}{85997f6cfd24ec8e73b2f48807ac9dec}
+      \strng{authorfullhash}{85997f6cfd24ec8e73b2f48807ac9dec}
+      \strng{authorfullhashraw}{85997f6cfd24ec8e73b2f48807ac9dec}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Zugriff am 11 April 2025}
-      \field{title}{Laborversuch 2: Rasterelektronenmikroskop (REM)}
+      \verb{urlraw}
+      \verb https://www.pvatepla-lwt.com/technologien/funktionsweise-der-ultraschallmikroskopie/
+      \endverb
+      \verb{url}
+      \verb https://www.pvatepla-lwt.com/technologien/funktionsweise-der-ultraschallmikroskopie/
+      \endverb
+    \endentry
+    \entry{2}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=72d4f659a3ea64f06abd3413357282a4}{%
+           family={Hennig},
+           familyi={H\bibinitperiod},
+           given={M.\bibnamedelimi Eng.\bibnamedelimi Christian},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{72d4f659a3ea64f06abd3413357282a4}
+      \strng{fullhash}{72d4f659a3ea64f06abd3413357282a4}
+      \strng{fullhashraw}{72d4f659a3ea64f06abd3413357282a4}
+      \strng{bibnamehash}{72d4f659a3ea64f06abd3413357282a4}
+      \strng{authorbibnamehash}{72d4f659a3ea64f06abd3413357282a4}
+      \strng{authornamehash}{72d4f659a3ea64f06abd3413357282a4}
+      \strng{authorfullhash}{72d4f659a3ea64f06abd3413357282a4}
+      \strng{authorfullhashraw}{72d4f659a3ea64f06abd3413357282a4}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \verb{urlraw}
+      \verb https://learn.fh-kiel.de/pluginfile.php/253050/mod_folder/content/0/Versuch%203%20SAM.pdf?forcedownload=1
+      \endverb
+      \verb{url}
+      \verb https://learn.fh-kiel.de/pluginfile.php/253050/mod_folder/content/0/Versuch%203%20SAM.pdf?forcedownload=1
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
