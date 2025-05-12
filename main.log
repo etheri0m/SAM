@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  12 MAY 2025 17:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  12 MAY 2025 18:07
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1777,7 +1777,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--11
 
 
 [3]
-<Bilder/samtheorie.jpg, id=53, 452.69125pt x 401.5pt>
+<Bilder/samtheorie.jpg, id=51, 452.69125pt x 401.5pt>
 File: Bilder/samtheorie.jpg Graphic file (type jpg)
 <use Bilder/samtheorie.jpg>
 Package pdftex.def Info: Bilder/samtheorie.jpg  used on input line 18.
@@ -1787,22 +1787,22 @@ Package pdftex.def Info: Bilder/samtheorie.jpg  used on input line 18.
 [4 <./Bilder/samtheorie.jpg>] (Sections/04-Proben und Methoden.tex
 
 [5]
-<Bilder/ksiv8.jpeg, id=69, 1815.78375pt x 1850.41313pt>
+<Bilder/ksiv8.jpeg, id=67, 1815.78375pt x 1850.41313pt>
 File: Bilder/ksiv8.jpeg Graphic file (type jpg)
 <use Bilder/ksiv8.jpeg>
 Package pdftex.def Info: Bilder/ksiv8.jpeg  used on input line 25.
 (pdftex.def)             Requested size: 199.73683pt x 203.54607pt.
-<Bilder/probe1.jpeg, id=70, 1192.455pt x 1395.71437pt>
+<Bilder/probe1.jpeg, id=68, 1192.455pt x 1395.71437pt>
 File: Bilder/probe1.jpeg Graphic file (type jpg)
 <use Bilder/probe1.jpeg>
 Package pdftex.def Info: Bilder/probe1.jpeg  used on input line 33.
 (pdftex.def)             Requested size: 143.08842pt x 167.4785pt.
-<Bilder/probe 2.jpeg, id=71, 1504.11937pt x 2388.67406pt>
+<Bilder/probe 2.jpeg, id=69, 1504.11937pt x 2388.67406pt>
 File: Bilder/probe 2.jpeg Graphic file (type jpg)
 <use Bilder/probe 2.jpeg>
 Package pdftex.def Info: Bilder/probe 2.jpeg  used on input line 42.
 (pdftex.def)             Requested size: 180.48653pt x 286.62852pt.
-<Bilder/probe3.jpeg, id=72, 1564.34438pt x 1546.27687pt>
+<Bilder/probe3.jpeg, id=70, 1564.34438pt x 1546.27687pt>
 File: Bilder/probe3.jpeg Graphic file (type jpg)
 <use Bilder/probe3.jpeg>
 Package pdftex.def Info: Bilder/probe3.jpeg  used on input line 50.
@@ -1814,11 +1814,16 @@ Package pdftex.def Info: Bilder/probe3.jpeg  used on input line 50.
 [7 <./Bilder/probe 2.jpeg> <./Bilder/probe3.jpeg>] (Sections/05-Durchführung.tex) (Sections/06-Ergebnisse.tex
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 13.67995pt on input line 1.
-<Bilder/Probe11.jpg, id=87, 517.935pt x 602.25pt>
+<Bilder/Probe11.jpg, id=85, 517.935pt x 602.25pt>
 File: Bilder/Probe11.jpg Graphic file (type jpg)
 <use Bilder/Probe11.jpg>
 Package pdftex.def Info: Bilder/Probe11.jpg  used on input line 7.
 (pdftex.def)             Requested size: 103.58516pt x 120.44786pt.
+<Bilder/probelinie1.png, id=86, 379.4175pt x 143.78719pt>
+File: Bilder/probelinie1.png Graphic file (type png)
+<use Bilder/probelinie1.png>
+Package pdftex.def Info: Bilder/probelinie1.png  used on input line 13.
+(pdftex.def)             Requested size: 284.56242pt x 107.84012pt.
 
 
 [8
@@ -1827,65 +1832,73 @@ Package pdftex.def Info: Bilder/Probe11.jpg  used on input line 7.
 <Bilder/Probe2_i794_x001.jpg, id=97, 517.935pt x 386.44376pt>
 File: Bilder/Probe2_i794_x001.jpg Graphic file (type jpg)
 <use Bilder/Probe2_i794_x001.jpg>
-Package pdftex.def Info: Bilder/Probe2_i794_x001.jpg  used on input line 19.
+Package pdftex.def Info: Bilder/Probe2_i794_x001.jpg  used on input line 25.
 (pdftex.def)             Requested size: 155.38168pt x 115.93402pt.
 <Bilder/Probe2_i794_x002.jpg, id=98, 517.935pt x 386.44376pt>
 File: Bilder/Probe2_i794_x002.jpg Graphic file (type jpg)
 <use Bilder/Probe2_i794_x002.jpg>
-Package pdftex.def Info: Bilder/Probe2_i794_x002.jpg  used on input line 20.
+Package pdftex.def Info: Bilder/Probe2_i794_x002.jpg  used on input line 26.
 (pdftex.def)             Requested size: 155.38168pt x 115.93402pt.
 <Bilder/Probe2_i794_x003.jpg, id=99, 517.935pt x 386.44376pt>
 File: Bilder/Probe2_i794_x003.jpg Graphic file (type jpg)
 <use Bilder/Probe2_i794_x003.jpg>
-Package pdftex.def Info: Bilder/Probe2_i794_x003.jpg  used on input line 28.
+Package pdftex.def Info: Bilder/Probe2_i794_x003.jpg  used on input line 34.
 (pdftex.def)             Requested size: 155.38168pt x 115.93402pt.
 <Bilder/Probe2_i794_x004.jpg, id=100, 517.935pt x 386.44376pt>
 File: Bilder/Probe2_i794_x004.jpg Graphic file (type jpg)
 <use Bilder/Probe2_i794_x004.jpg>
-Package pdftex.def Info: Bilder/Probe2_i794_x004.jpg  used on input line 29.
+Package pdftex.def Info: Bilder/Probe2_i794_x004.jpg  used on input line 35.
 (pdftex.def)             Requested size: 155.38168pt x 115.93402pt.
 
 
-[9 <./Bilder/Probe2_i794_x001.jpg> <./Bilder/Probe2_i794_x002.jpg> <./Bilder/Probe2_i794_x003.jpg> <./Bilder/Probe2_i794_x004.jpg>]
-<Bilder/Probe2_i794_x005.jpg, id=107, 517.935pt x 386.44376pt>
+[9 <./Bilder/probelinie1.png> <./Bilder/Probe2_i794_x001.jpg> <./Bilder/Probe2_i794_x002.jpg>]
+
+[10 <./Bilder/Probe2_i794_x003.jpg> <./Bilder/Probe2_i794_x004.jpg>]
+<Bilder/Probe2_i794_x005.jpg, id=113, 517.935pt x 386.44376pt>
 File: Bilder/Probe2_i794_x005.jpg Graphic file (type jpg)
 <use Bilder/Probe2_i794_x005.jpg>
-Package pdftex.def Info: Bilder/Probe2_i794_x005.jpg  used on input line 37.
+Package pdftex.def Info: Bilder/Probe2_i794_x005.jpg  used on input line 43.
 (pdftex.def)             Requested size: 155.38168pt x 115.93402pt.
-<Bilder/Probe3_i795_c.jpg, id=109, 517.935pt x 501.875pt>
+<Bilder/probelinie2.png, id=114, 354.57469pt x 103.13531pt>
+File: Bilder/probelinie2.png Graphic file (type png)
+<use Bilder/probelinie2.png>
+Package pdftex.def Info: Bilder/probelinie2.png  used on input line 49.
+(pdftex.def)             Requested size: 265.93036pt x 77.35127pt.
+<Bilder/Probe3_i795_c.jpg, id=116, 517.935pt x 501.875pt>
 File: Bilder/Probe3_i795_c.jpg Graphic file (type jpg)
 <use Bilder/Probe3_i795_c.jpg>
-Package pdftex.def Info: Bilder/Probe3_i795_c.jpg  used on input line 49.
+Package pdftex.def Info: Bilder/Probe3_i795_c.jpg  used on input line 60.
 (pdftex.def)             Requested size: 155.38168pt x 150.56366pt.
+<Bilder/probelinie3.png, id=117, 338.76563pt x 50.43843pt>
+File: Bilder/probelinie3.png Graphic file (type png)
+<use Bilder/probelinie3.png>
+Package pdftex.def Info: Bilder/probelinie3.png  used on input line 66.
+(pdftex.def)             Requested size: 254.07358pt x 37.82872pt.
 )
-
-[10
-
- <./Bilder/Probe2_i794_x005.jpg> <./Bilder/Probe3_i795_c.jpg>] (Sections/07-Zusammenfassung.tex) (Sections/08-Fazit.tex)
 
 [11
 
+ <./Bilder/Probe2_i794_x005.jpg> <./Bilder/probelinie2.png>]
+
+[12 <./Bilder/Probe3_i795_c.jpg> <./Bilder/probelinie3.png>] (Sections/07-Zusammenfassung.tex) (Sections/08-Fazit.tex)
+
+[13
+
 ] (Sections-ending/11-Abbildungsverzeichnis.tex
 Package tocbasic Info: character protrusion at lof deactivated on input line 1.
- (main.lof)
+ (main.lof
+
+[14])
 \tf@lof=\write8
 \openout8 = `main.lof'.
-
-) (Sections-ending/12-Tabellenverzeichnis.tex
-Package tocbasic Info: character protrusion at lot deactivated on input line 1.
- (main.lot)
-\tf@lot=\write9
-\openout9 = `main.lot'.
 
 ) (Sections-ending/13-Literaturverzeichnis.tex
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
+)
 
-
-[12])
-
-[13] (main.aux)
+[15] (main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1897,17 +1910,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 64877 strings out of 473523
- 1551886 string characters out of 5714630
- 2744501 words of memory out of 5000000
- 86902 multiletter control sequences out of 15000+600000
- 644534 words of font info for 185 fonts, out of 8000000 for 9000
+ 64907 strings out of 473523
+ 1553261 string characters out of 5714630
+ 2746416 words of memory out of 5000000
+ 86923 multiletter control sequences out of 15000+600000
+ 645162 words of font info for 191 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  108i,20n,133p,10922b,3479s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/albas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on main.pdf (13 pages, 4267005 bytes).
+Output written on main.pdf (15 pages, 4276073 bytes).
 PDF statistics:
- 247 PDF objects out of 1000 (max. 8388607)
- 44 named destinations out of 1000 (max. 500000)
- 53438 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 271 PDF objects out of 1000 (max. 8388607)
+ 47 named destinations out of 1000 (max. 500000)
+ 53445 words of extra memory for PDF output out of 61914 (max. 10000000)
 
