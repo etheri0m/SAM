@@ -2370,12 +2370,34 @@
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
     <bcf:datasource type="file" datatype="bibtex" glob="false">quellen.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">Einzelnachweise.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">1</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">1</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">2</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">hennig2025</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">pvateplaSAM</bcf:citekey>
+    <bcf:citekey order="2" intorder="2">wikiSAM2024</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">pvateplaSAM</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">wikiSAM2024</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">hennig2025</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">pvateplaSAM</bcf:citekey>
+    <bcf:citekey order="6" intorder="2">wikiSAM2024</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">pvateplaSAM</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">pvateplaSAM</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">fraunhoferSinter</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">fraunhoferSinter</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">telsonicWelding</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">tuBerlinLaminate</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">tuBerlinLaminate</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">hennig2025</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">pvateplaSAM</bcf:citekey>
+    <bcf:citekey order="15" intorder="2">wikiSAM2024</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">hennig2025</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">pvateplaSAM</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">hennig2025</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">wikiSAM2024</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">hennig2025</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">pvateplaSAM</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">wikiSAM2024</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">hennig2025</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

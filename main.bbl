@@ -19,33 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
-    \entry{1}{online}{}{}
-      \name{author}{1}{}{%
-        {{hash=85997f6cfd24ec8e73b2f48807ac9dec}{%
-           family={AG},
-           familyi={A\bibinitperiod},
-           given={PVA\bibnamedelima Tepla},
-           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
-      }
-      \strng{namehash}{85997f6cfd24ec8e73b2f48807ac9dec}
-      \strng{fullhash}{85997f6cfd24ec8e73b2f48807ac9dec}
-      \strng{fullhashraw}{85997f6cfd24ec8e73b2f48807ac9dec}
-      \strng{bibnamehash}{85997f6cfd24ec8e73b2f48807ac9dec}
-      \strng{authorbibnamehash}{85997f6cfd24ec8e73b2f48807ac9dec}
-      \strng{authornamehash}{85997f6cfd24ec8e73b2f48807ac9dec}
-      \strng{authorfullhash}{85997f6cfd24ec8e73b2f48807ac9dec}
-      \strng{authorfullhashraw}{85997f6cfd24ec8e73b2f48807ac9dec}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \verb{urlraw}
-      \verb https://www.pvatepla-lwt.com/technologien/funktionsweise-der-ultraschallmikroskopie/
-      \endverb
-      \verb{url}
-      \verb https://www.pvatepla-lwt.com/technologien/funktionsweise-der-ultraschallmikroskopie/
-      \endverb
-    \endentry
-    \entry{2}{online}{}{}
+    \entry{hennig2025}{online}{}{}
       \name{author}{1}{}{%
         {{hash=72d4f659a3ea64f06abd3413357282a4}{%
            family={Hennig},
@@ -61,14 +35,155 @@
       \strng{authornamehash}{72d4f659a3ea64f06abd3413357282a4}
       \strng{authorfullhash}{72d4f659a3ea64f06abd3413357282a4}
       \strng{authorfullhashraw}{72d4f659a3ea64f06abd3413357282a4}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
+      \field{note}{Zugriff am 21. Juni 2025}
       \verb{urlraw}
       \verb https://learn.fh-kiel.de/pluginfile.php/253050/mod_folder/content/0/Versuch%203%20SAM.pdf?forcedownload=1
       \endverb
       \verb{url}
       \verb https://learn.fh-kiel.de/pluginfile.php/253050/mod_folder/content/0/Versuch%203%20SAM.pdf?forcedownload=1
+      \endverb
+    \endentry
+    \entry{pvateplaSAM}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=85997f6cfd24ec8e73b2f48807ac9dec}{%
+           family={AG},
+           familyi={A\bibinitperiod},
+           given={PVA\bibnamedelima Tepla},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{85997f6cfd24ec8e73b2f48807ac9dec}
+      \strng{fullhash}{85997f6cfd24ec8e73b2f48807ac9dec}
+      \strng{fullhashraw}{85997f6cfd24ec8e73b2f48807ac9dec}
+      \strng{bibnamehash}{85997f6cfd24ec8e73b2f48807ac9dec}
+      \strng{authorbibnamehash}{85997f6cfd24ec8e73b2f48807ac9dec}
+      \strng{authornamehash}{85997f6cfd24ec8e73b2f48807ac9dec}
+      \strng{authorfullhash}{85997f6cfd24ec8e73b2f48807ac9dec}
+      \strng{authorfullhashraw}{85997f6cfd24ec8e73b2f48807ac9dec}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{note}{Zugriff am 21. Juni 2025}
+      \verb{urlraw}
+      \verb https://www.pvatepla-lwt.com/technologien/funktionsweise-der-ultraschallmikroskopie/
+      \endverb
+      \verb{url}
+      \verb https://www.pvatepla-lwt.com/technologien/funktionsweise-der-ultraschallmikroskopie/
+      \endverb
+    \endentry
+    \entry{wikiSAM2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhashraw}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhashraw}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://en.wikipedia.org/wiki/Scanning_acoustic_microscope}}
+      \field{note}{Online; Zugriff am 21. Juni 2025}
+      \field{title}{Scanning acoustic microscope --- Wikipedia{,} The Free Encyclopedia}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Scanning_acoustic_microscope
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Scanning_acoustic_microscope
+      \endverb
+    \endentry
+    \entry{fraunhoferSinter}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=3600fca2578d23e83be35ce103541107}{%
+           family={{Fraunhofer IZM}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{3600fca2578d23e83be35ce103541107}
+      \strng{fullhash}{3600fca2578d23e83be35ce103541107}
+      \strng{fullhashraw}{3600fca2578d23e83be35ce103541107}
+      \strng{bibnamehash}{3600fca2578d23e83be35ce103541107}
+      \strng{authorbibnamehash}{3600fca2578d23e83be35ce103541107}
+      \strng{authornamehash}{3600fca2578d23e83be35ce103541107}
+      \strng{authorfullhash}{3600fca2578d23e83be35ce103541107}
+      \strng{authorfullhashraw}{3600fca2578d23e83be35ce103541107}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 19. Juni 2025}
+      \field{title}{Silber-Sintern in der Leistungselektronik}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.izm.fraunhofer.de/de/abteilungen/system_integrationinterconnectiontechnologies/leistungsangebot/prozess-_und_produktentwicklung/silber-sintern/silber-sintern_ext.html
+      \endverb
+      \verb{url}
+      \verb https://www.izm.fraunhofer.de/de/abteilungen/system_integrationinterconnectiontechnologies/leistungsangebot/prozess-_und_produktentwicklung/silber-sintern/silber-sintern_ext.html
+      \endverb
+    \endentry
+    \entry{telsonicWelding}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=3589974e0ab2b92b22ebad632a60ac9b}{%
+           family={{ Herrmann Ultraschall}},
+           familyi={_\bibinitperiod}}}%
+      }
+      \strng{namehash}{3589974e0ab2b92b22ebad632a60ac9b}
+      \strng{fullhash}{3589974e0ab2b92b22ebad632a60ac9b}
+      \strng{fullhashraw}{3589974e0ab2b92b22ebad632a60ac9b}
+      \strng{bibnamehash}{3589974e0ab2b92b22ebad632a60ac9b}
+      \strng{authorbibnamehash}{3589974e0ab2b92b22ebad632a60ac9b}
+      \strng{authornamehash}{3589974e0ab2b92b22ebad632a60ac9b}
+      \strng{authorfullhash}{3589974e0ab2b92b22ebad632a60ac9b}
+      \strng{authorfullhashraw}{3589974e0ab2b92b22ebad632a60ac9b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 19. Juni 2025}
+      \field{title}{Ultraschallschweißen in der Leistungselektronik}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.herrmannultraschall.com/de/schweissen-mit-ultraschall/ultraschallschweissen#:~:text=Wie%20funktioniert%20Ultraschallschwei%C3%9Fen%3F,erzeugt%20Energie%20(sogenannte%20Reibungsw%C3%A4rme).
+      \endverb
+      \verb{url}
+      \verb https://www.herrmannultraschall.com/de/schweissen-mit-ultraschall/ultraschallschweissen#:~:text=Wie%20funktioniert%20Ultraschallschwei%C3%9Fen%3F,erzeugt%20Energie%20(sogenannte%20Reibungsw%C3%A4rme).
+      \endverb
+    \endentry
+    \entry{tuBerlinLaminate}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=4193b72e3b3630a722d1a5e4d5801e1a}{%
+           family={{RAYMING Technology}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{4193b72e3b3630a722d1a5e4d5801e1a}
+      \strng{fullhash}{4193b72e3b3630a722d1a5e4d5801e1a}
+      \strng{fullhashraw}{4193b72e3b3630a722d1a5e4d5801e1a}
+      \strng{bibnamehash}{4193b72e3b3630a722d1a5e4d5801e1a}
+      \strng{authorbibnamehash}{4193b72e3b3630a722d1a5e4d5801e1a}
+      \strng{authornamehash}{4193b72e3b3630a722d1a5e4d5801e1a}
+      \strng{authorfullhash}{4193b72e3b3630a722d1a5e4d5801e1a}
+      \strng{authorfullhashraw}{4193b72e3b3630a722d1a5e4d5801e1a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Zugriff am 19. Juni 2025}
+      \field{title}{Laminiertechnologie für Leistungsmodule}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.raypcb.com/pcb-lamination-process/
+      \endverb
+      \verb{url}
+      \verb https://www.raypcb.com/pcb-lamination-process/
       \endverb
     \endentry
   \enddatalist
